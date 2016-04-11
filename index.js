@@ -2,7 +2,7 @@
 'use strict';
 
 module.exports = {
-  name: 'sq-ember-data-store',
+  name: 'ms-ember-data-store',
   isDevelopingAddon: function() {
     return true;
   }
